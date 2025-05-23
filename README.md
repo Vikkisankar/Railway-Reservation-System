@@ -33,3 +33,11 @@ A Java console-based Railway Reservation System project that simulates real-worl
 
    ```bash
    git clone https://github.com/Vikkisankar/Railway-Reservation-System.git
+
+2. Open the project in your preferred Java IDE (Eclipse, IntelliJ IDEA, etc.).
+
+3. Compile and run RailwayReservationSystem.java.
+
+4. Follow on-screen instructions in the console to use the system.
+
+
